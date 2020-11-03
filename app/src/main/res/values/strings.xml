@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinBasic</string>
+    <string name="landscape">Landscape Mode</string>
+    <string name="portrait">Portrait Mode</string>
+</resources>
